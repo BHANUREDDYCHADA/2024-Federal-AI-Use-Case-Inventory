@@ -87,4 +87,4 @@ As of December 17, 2024, the following represents a summary of the current conso
 - [CIO.gov](https://www.cio.gov/policies-and-priorities/Executive-Order-13960-AI-Use-Case-Inventories-Reference/)
 
 ## Contact
-For questions about this repository, please open an issue or contact the maintainers at OFCIO_AI@omb.eop.gov. For agency-specific inquiries, please contact the relevant agency Chief Artificial Intelligence Officer.
+This data collection and repository is maintained by Morgan Zimmerman and Varoon Mathur. For questions about this repository, please open an issue or contact the maintainers at OFCIO_AI@omb.eop.gov. For agency-specific inquiries, please contact the relevant agency Chief Artificial Intelligence Officer.
