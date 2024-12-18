@@ -18,8 +18,9 @@ Federal agencies, with limited exceptions, are required to conduct annual invent
 
 ## Summary
 As of December 17, 2024, the following represents a summary of the current consolidated Federal dataset:
-
-Total Number of Agencies Reporting AI Use Cases: *37*
+- 37 agency submissions
+- 1757 AI use cases
+- 227 rights-impacting and/or safety-impacting use cases
 
 | Agency Name | Total Publicly Reported AI Use Cases | Safety and Rights-Impacting Use Cases |
 |------------|-----------------------------------:|------------------------------------:|
