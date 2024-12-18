@@ -7,7 +7,6 @@ This 2024 Federal Agency Artificial Intelligence (AI) Use Case Inventory reposit
 Federal agencies, with limited exceptions, are required to conduct annual inventories of their AI use cases and make this information publicly available. Federal agencies are to post a machine-readable CSV of all publicly releasable use cases on their agency’s AI website. For more information on AI Use Case reporting instructions, refer to the Guidance For 2024 Agency Artificial Intelligence Reporting found in the Additional Resources section. 
 
 ## Repository Structure
-
 ```
 ├── data/
 │   ├── 2024_consolidated_ai_inventory_raw.csv      # Raw Consolidated Inventory CSV
