@@ -10,7 +10,8 @@ Federal agencies, with limited exceptions, are required to conduct annual invent
 ```
 ├── data/
 │   ├── 2024_consolidated_ai_inventory_raw.csv      # Raw Consolidated Inventory CSV
-│   ├── 2024_consolidated_ai_inventory_raw.xls      # Raw Consolidated Inventory XLS  
+│   ├── 2024_consolidated_ai_inventory_raw.xls      # Raw Consolidated Inventory XLS
+│   ├── 2023_consolidated_ai_inventory_raw.xls      # Raw Consolidated Inventory XLS  
 ├── validation/                    
     ├── data_dictionary.yaml                   # 2024 Use Case Inventory Data Dictionary
 ```
