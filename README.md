@@ -39,7 +39,7 @@ As of December 17, 2024, the following represents a summary of the current conso
 | General Services Administration | 24 | 1 |
 | National Aeronautics and Space Administration | 18 | 0 |
 | National Science Foundation | 16 | 0 |
-| Office of Personal Management | 2 | 2 |
+| Office of Personnel Management | 2 | 2 |
 | Social Security Administration | 23 | 9 |
 | United States Agency for International Development | 137 | 17 |
 | Commodity Futures Trading Commission | 4 | 1 |
