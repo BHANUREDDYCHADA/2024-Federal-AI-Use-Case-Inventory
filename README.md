@@ -17,22 +17,25 @@ Federal agencies, with limited exceptions, are required to conduct annual invent
 ```
 
 ## Summary
-As of December 17, 2024, the following represents a summary of the current consolidated Federal dataset:
-- 37 agency submissions
-- 1757 AI use cases
-- 227 rights-impacting and/or safety-impacting use cases
+As of January 23, 2025, the following represents a summary of the current consolidated Federal dataset:
+- 41 agency submissions
+- 2133 AI use cases
+- 351 rights-impacting and/or safety-impacting use cases
 
 | Agency Name | Total Publicly Reported AI Use Cases | Safety and Rights-Impacting Use Cases |
 |------------|-----------------------------------:|------------------------------------:|
 | Department of Agriculture | 89 | 4 |
 | Department of Commerce | 57 | 0 |
+| Department of Education | 54 | 0 |
 | Department of Energy | 79 | 3 |
 | Department of Health and Human Services | 271 | 4 |
 | Department of Homeland Security | 183 | 34 |
 | Department of Housing and Urban Development | 6 | 1 |
+| Department of Justice | 240 | 124 |
 | Department of Labor | 70 | 2 |
 | Department of State | 51 | 0 |
 | Department of the Interior | 180 | 0 |
+| Department of Transportation | 66 | 0 |
 | Department of the Treasury | 54 | 2 |
 | Department of Veterans Affairs | 229 | 145 |
 | Environmental Protection Agency | 17 | 1 |
@@ -52,6 +55,7 @@ As of December 17, 2024, the following represents a summary of the current conso
 | Federal Reserve Board of Governors | 50 | 0 |
 | Federal Trade Commission | 6 | 0 |
 | National Archives and Records Administration | 9 | 0 |
+| National Credit Union Administration | 16 | 0 |
 | National Transportation Safety Board | 2 | 0 |
 | Pension Benefit Guaranty Corporation | 2 | 0 |
 | Postal Regulatory Commission | 1 | 0 |
@@ -61,7 +65,7 @@ As of December 17, 2024, the following represents a summary of the current conso
 | United States Agency for Global Media | 8 | 0 |
 | United States Commission on Civil Rights | 2 | 0 |
 | United States Trade and Development Agency | 4 | 0 |
-| **Total** | **1,757** | **227** |
+| **Total** | **2,133** | **351** |
 
 
 ## Key Considerations
